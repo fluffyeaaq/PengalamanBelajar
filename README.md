@@ -1,5 +1,5 @@
 # PengalamanBelajar
-Repository ini bagian belajar git di Dicoding
+Repository ini bagian belajar git di Dicoding Academy 
 14 Juni 2021
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 
